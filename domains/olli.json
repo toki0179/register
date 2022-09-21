@@ -1,0 +1,13 @@
+{
+  "repo": "https://github.com/toki0179/olliwes.me",
+  "description": "This is my portfolio website for now.",
+  "record": {
+    "CNAME": "olliwes-me.vercel.app",
+    "TXT": "vc-domain-verify=olli.is-a.dev,e2d0fd56528ccda6e6eb",
+  "owner": {
+    "username": "toki0179",
+    "email": "olliwes01@gmail.com",
+    "twitter": "toki0279",
+    "discord": "Olli#1054"
+  }
+}
